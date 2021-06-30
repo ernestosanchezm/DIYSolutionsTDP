@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bc419a5881b454731bd09819dafab006
+labels:
+- Asset
+- Cloud
+- Easysave
+- Json
+- Load
+- Playerprefs
+- Profile
+- Save
+- Serialize
+- Texture
+timeCreated: 1533044314
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

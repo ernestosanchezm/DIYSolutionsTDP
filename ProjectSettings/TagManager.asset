@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Taladro
+  - ventana pausa
+  - menu pausa
+  - laser pointer
+  - LeftHand
+  - SceneObjectIdStore
+  - Martillo
+  - RightHand
+  - ui helpers
+  - MAleParanete1
+  - MAleTornillo14
+  - MAleTaguro2
+  - MAleParanete2
+  - MAleBloque1
+  - MAleTornillo11
+  - MAleBloque2
+  - MAleTornillo4
+  - MAleTornillo7
+  - MAleBloque4
+  - MAleTaguro1
+  - MAleTornillo10
+  - MAleTornillo15
+  - MAleTornillo9
+  - MAleBloqueTeho2
+  - MAleBloque3
+  - MAleTornillo12
+  - MAleTornillo2
+  - MAleTaguro5
+  - MAleTaguro4
+  - MAleTornillo8
+  - MAleTornillo6
+  - MAleTornillo3
+  - MAleTaguro8
+  - MAleTornillo5
+  - MAleTornillo16
+  - MAleTornillo13
+  - MAleBloqueTeho3
+  - MAleTaguro6
+  - MAleBloqueTeho1
+  - MAleSombrilla
+  - MAleTaguro7
+  - MAleTaguro3
+  - MAleTornillo1
+  - MPBizagra2
+  - MPBizagra1
+  - MPBizagra3
+  - MPBIzquierdo
+  - MPBPuerta
+  - MPTornilloSuperior2
+  - MPTarugoLateraD2
+  - MPTornilloLateralI2
+  - MPTarugoLateralI3
+  - MPTornilloLateralI3
+  - MPTornilloSuperior1
+  - MPTarugoLateralI2
+  - MPTarugoLateraD1
+  - MPTornilloLateralD1
+  - MVVidrio2
+  - test
+  - MPTornilloLateralD3
+  - MPTornilloLateralI1
+  - MPTarugoLateraD3
+  - MPTornilloLateralD2
+  - MPTarugoSuperior2
+  - MPTarugoSuperior1
+  - MPTarugoLateralI1
+  - MPBDerecho
+  - MPBSuperior
+  - PuertaTPM3
+  - PuertaTPM2
+  - PuertaTMP1
+  - PuertaTMM2
+  - PuertaTMM1
+  - PuertaTPP3
+  - PuertaTPM1
+  - PuertaTRM1
+  - PuertaTRM3
+  - PuertaTRP2
+  - PuertaTRP1
+  - PuertaTMP3
+  - PuertaTRP3
+  - PuertaTPP2
+  - PuertaTRM2
+  - PuertaTMP2
+  - PuertaTPP1
+  - PuertaTMM3
+  - MVMarco7
+  - MVMarco2
+  - MVenTornillo8
+  - MVenTornillo4
+  - MVMarco5
+  - MVProtector2
+  - MVMarco10
+  - MVMarco8
+  - MVMarco4
+  - MVVidrio3
+  - MVMarco6
+  - MVenTornillo2
+  - MVenTornillo7
+  - MVMarco3
+  - MVMarco1
+  - MVenTornillo5
+  - MVMarco9
+  - MVenTornillo3
+  - MVenTornillo6
+  - MVenTornillo1
+  - MVProtector1
+  - MVVidrio1
+  - MVenTarugo16
+  - MVenTarugo9
+  - MVenTarugo14
+  - MVenTarugo13
+  - MVenTarugo12
+  - MVenTarugo15
+  - MVenTarugo10
+  - MVenTarugo11
+  - MVenTarugo7
+  - MVenTornillo16
+  - MVenTornillo12
+  - MVenTarugo1
+  - MVenTornillo9
+  - MVenTornillo13
+  - MVenTornillo15
+  - MVenTornillo11
+  - MVenTornillo14
+  - MVenTarugo6
+  - MVenTarugo4
+  - MVenTarugo3
+  - MVenTarugo5
+  - MVenTarugo8
+  - MVenTornillo10
+  - MVenTarugo2
+  - MAleTarugo1
+  - MAleTarugo2
+  - MAleTarugo3
+  - MAleTarugo4
+  - MAleTarugo5
+  - MAleTarugo6
+  - MAleTarugo7
+  - MAleTarugo8
+  - SubidaIzquierda
+  - SubidaDerecha
+  - PMCruceta1
+  - PMCruceta2
+  - PMCruceta3
+  - PMCruceta4
+  - PMCruceta8
+  - PMCruceta7
+  - PMCruceta6
+  - PMCruceta5
+  - PMLoseta4
+  - PMLoseta3
+  - Cable
+  - MILSocket
+  - MLCableRojo
+  - MLCableAzul
+  - MLTornillo2
+  - MLTornillo3
+  - MILTornillo1
+  - MLTornillo4
+  - MILFoco
+  - MILInterruptor
+  - MLuzTornillo5
+  - MLuzTornillo6
+  - MLuzTornillo7
+  - MLuzTornillo8
+  - MLuzTornillo9
+  - MLuzCableRojo
+  - MLuzCableAzul
+  - MLuzCableNegro
+  - MLuzSocketBase
+  - MLuzInterruptorBase
+  - MLuzTornillo10
+  - MLuzPalanca
+  - FCano
+  - FLavadero
+  - FTuberia1
+  - FTuberia2
+  - FTapa1
+  - FTapa2
+  - FTapa3
+  - FTapa4
+  - Paleta
+  - PMMayolica11
+  - PMMayolica9
+  - PMMayolica3
+  - PMLoseta6
+  - PMLoseta5
+  - PMLoseta1
+  - PMMayolica12
+  - PMMayolica4
+  - PMMayolica6
+  - PMMayolica7
+  - PMMayolica5
+  - PMMayolica10
+  - PMMayolica1
+  - PMMayolica8
+  - PMLoseta2
+  - PMMayolica2
+  - BrushSilicona
+  - TagMuebleMadera1
+  - TagMuebleMadera2
+  - TagMuebleMadera3
+  - TagMuebleMadera4
+  - TagMuebleMadera5
+  - TagMuebleMadera6
+  - TagMuebleMadera7
+  - TagMuebleMadera8
+  - TagMuebleTarugo1
+  - TagMuebleTarugo2
+  - TagMuebleTarugo3
+  - TagMuebleTarugo4
+  - TagMuebleTarugo5
+  - TagMuebleTarugo6
+  - TagMuebleTarugo7
+  - TagMuebleTarugo8
+  - TagMuebleTarugo9
+  - TagMuebleTarugo10
+  - TagMuebleTarugo11
+  - TagMuebleTarugo12
+  - TagMuebleTarugo13
+  - TagMuebleTarugo14
+  - TagMuebleTarugo15
+  - TagMuebleTarugo16
+  - TagMuebleTarugo17
+  - TagMuebleTarugo18
+  - TagMuebleTarugo19
+  - TagMuebleTarugo20
+  - TagMuebleTarugo21
+  - TagMuebleTarugo22
+  - TagMuebleTarugo23
+  - TagMuebleTarugo24
+  - TagMuebleTarugo25
+  - TagMuebleTarugo26
+  - TagMuebleTarugo27
+  - TagMuebleTornillo1
+  - TagMuebleTornillo2
+  - TagMuebleTornillo3
+  - TagMuebleTornillo4
+  - TagMuebleTornillo5
+  - TagMuebleTornillo6
+  - TagMuebleTornillo7
+  - TagMuebleTornillo8
+  - TagMuebleTornillo9
+  - TagMuebleTornillo10
+  - TagMuebleTornillo11
+  - TagMuebleTornillo12
+  - TagMuebleTornillo13
+  - TagMuebleTornillo14
+  - TagMuebleTornillo15
+  - TagMuebleTornillo16
+  - TagMuebleTornillo17
+  - TagMuebleTornillo18
+  - TagMuebleTornillo19
+  - TagMuebleTornillo20
+  - TagMuebleTornillo21
+  - TagMuebleTornillo22
+  - TagMuebleTornillo23
+  - TagMuebleTornillo24
+  - TagMuebleTornillo25
+  - TagMuebleTornillo26
+  - TagMuebleTornillo27
+  - TagMuebleTornillo28
+  - TagMuebleTornillo29
+  - TagMuebleTornillo30
+  - TagMuebleBizagra1
+  - TagMuebleBizagra2
+  - TagMuebleBizagra3
+  - TagMuebleBizagra4
+  - PaletaBase
+  - ventana1 principal
+  - menu manager
+  - SoundHandler
+  - Silicona
+  - Mezcla
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3162881374193505208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3162881374193505211}
+  - component: {fileID: 3162881374193505210}
+  - component: {fileID: 3162881374193505209}
+  m_Layer: 0
+  m_Name: PTarugo8Zone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3162881374193505211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3162881374193505208}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.44355, y: 3.300231, z: -16.51293}
+  m_LocalScale: {x: 0.02434, y: 0.02434, z: 0.02434}
+  m_Children:
+  - {fileID: 3162881373553824782}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3162881374193505210
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3162881374193505208}
+  m_Mesh: {fileID: 4300000, guid: b323be158bb813748898f74ec65f4527, type: 3}
+--- !u!95 &3162881374193505209
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3162881374193505208}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &6574038112317029198
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3162881374193505211}
+    m_Modifications:
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776772, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: RocketPart
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8133328368564776772, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: SnapRotationReference
+      value: 
+      objectReference: {fileID: 3162881374193505208}
+    - target: {fileID: 8133328368564776775, guid: c37c56b06595d204489dd12f0b326cbc,
+        type: 3}
+      propertyPath: m_Name
+      value: PTarugo8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c37c56b06595d204489dd12f0b326cbc, type: 3}
+--- !u!4 &3162881373553824782 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8133328368564776768, guid: c37c56b06595d204489dd12f0b326cbc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6574038112317029198}
+  m_PrefabAsset: {fileID: 0}

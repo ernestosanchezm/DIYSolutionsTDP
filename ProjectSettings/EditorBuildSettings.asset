@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/PrincipalScene.unity
+    guid: 0878bb04913115a40b11cea198496a22
+  - enabled: 1
+    path: Assets/Scenes/Menu/UsuarioScene.unity
+    guid: 8da6f2c76502a3f439bc6eef70bd1717
+  - enabled: 1
+    path: Assets/Scenes/Menu/ActividadesScene.unity
+    guid: 1ba2a39ce018fb340bc7bb8b6fcb01b5
+  - enabled: 1
+    path: Assets/Scenes/Menu/DetalleActividadScene.unity
+    guid: 05fe12c33cadd57478642b1fe56180aa
+  - enabled: 1
+    path: Assets/Scenes/Actividades/ColocarMayolicaLosetaScene.unity
+    guid: 98e3e44fd8817f04f90db5d349662fb8
+  - enabled: 1
+    path: Assets/Scenes/Actividades/ArmarPuertaScene.unity
+    guid: 153b976663656e1419d6f5f61cddf7f1
+  - enabled: 1
+    path: Assets/Scenes/Actividades/ColocarLuzScene.unity
+    guid: e0d701e4bed9ec240b399ae95bc0df4f
+  - enabled: 1
+    path: Assets/Scenes/Actividades/ColocarVentana.unity
+    guid: 10bcf1419d9555947b19bca07c8f49bd
+  - enabled: 1
+    path: Assets/Scenes/Menu/StatisticScene.unity
+    guid: 41a84d1c699afb04d9ef425aac41137a
+  - enabled: 1
+    path: Assets/Scenes/Actividades/ColocarAlero.unity
+    guid: 7a2b1312630db6e4495cadf882789c40
+  - enabled: 1
+    path: Assets/Scenes/Actividades/ArmarMuebleCocina.unity
+    guid: ef383186203ff754b9590472776f8b10
+  - enabled: 1
+    path: Assets/Scenes/Actividades/ArmarFregadero.unity
+    guid: ae08c22379f9a474896cbb8c1ba071e6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f05a96581cc4d3943b82c64b2cf651e1,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: fd02fd23130b7d546a884adb86f06dc1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0224d172453ddb64f88c4e8c2c6fe33a,
+      type: 2}

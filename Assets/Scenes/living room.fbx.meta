@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 956dec6a76785994a82a900c866e410c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Black pillow
+    100002: Carpet
+    100004: Ceiling
+    100006: Ceilling Floor Window an Walls
+    100008: Coffee.Black.Inside.Cup.001
+    100010: Coffee.Black.Inside.TOP.001
+    100012: CoffeeArt.Normal.Spec.Occ.001
+    100014: CoffeeCup.Glass.001
+    100016: CoffeeCup.Porcelin.001
+    100018: corridor wall
+    100020: Desk
+    100022: Extra material
+    100024: floor
+    100026: Front wall
+    100028: Gibson board
+    100030: gray pillow
+    100032: hidden light in Ceiling
+    100034: Lamp
+    100036: Lamp culomne
+    100038: Lamp.001
+    100040: Lamp.003
+    100042: left wall
+    100044: left wall shelf
+    100046: Light
+    100048: //RootNode
+    100050: Nesstila Cup
+    100052: paint
+    100054: Right wall
+    100056: Right wall shelf
+    100058: rosa.006
+    100060: rosa.007
+    100062: rosa.008
+    100064: rosa.009
+    100066: rosa.010
+    100068: rosa.011
+    100070: rosa.012
+    100072: rosa.013
+    100074: rosa.014
+    100076: rosa.015
+    100078: rosa.016
+    100080: rosa.017
+    100082: rosa.018
+    100084: rosa.019
+    100086: rosa.020
+    100088: rosa.021
+    100090: rosa.022
+    100092: rosa.023
+    100094: Roses
+    100096: Saucer.Glass.001
+    100098: Saucer.Porcelin.001
+    100100: Sofa back pillow
+    100102: Sofa back pillow.001
+    100104: Sofa back pillow.002
+    100106: Sofa bottom matress
+    100108: Sofa bottom matress.001
+    100110: Sofa bottom pillow
+    100112: Sofa botton matress
+    100114: Sofa seat pillow
+    100116: Sofa seat pillow.001
+    100118: Sofa sides
+    100120: Sofa sides.001
+    100122: Sofa sides.002
+    100124: Sofa support
+    100126: Sofa support.001
+    100128: Sofa support.002
+    100130: Sofas
+    100132: Sphere.002
+    100134: Spoon
+    100136: Spoon.002
+    100138: Spoon.003
+    100140: Spoon.Coffee.Creamed.001
+    100142: Sugar.Cube.001
+    100144: TV
+    100146: Window frame
+    100148: Window glass
+    400000: Black pillow
+    400002: Carpet
+    400004: Ceiling
+    400006: Ceilling Floor Window an Walls
+    400008: Coffee.Black.Inside.Cup.001
+    400010: Coffee.Black.Inside.TOP.001
+    400012: CoffeeArt.Normal.Spec.Occ.001
+    400014: CoffeeCup.Glass.001
+    400016: CoffeeCup.Porcelin.001
+    400018: corridor wall
+    400020: Desk
+    400022: Extra material
+    400024: floor
+    400026: Front wall
+    400028: Gibson board
+    400030: gray pillow
+    400032: hidden light in Ceiling
+    400034: Lamp
+    400036: Lamp culomne
+    400038: Lamp.001
+    400040: Lamp.003
+    400042: left wall
+    400044: left wall shelf
+    400046: Light
+    400048: //RootNode
+    400050: Nesstila Cup
+    400052: paint
+    400054: Right wall
+    400056: Right wall shelf
+    400058: rosa.006
+    400060: rosa.007
+    400062: rosa.008
+    400064: rosa.009
+    400066: rosa.010
+    400068: rosa.011
+    400070: rosa.012
+    400072: rosa.013
+    400074: rosa.014
+    400076: rosa.015
+    400078: rosa.016
+    400080: rosa.017
+    400082: rosa.018
+    400084: rosa.019
+    400086: rosa.020
+    400088: rosa.021
+    400090: rosa.022
+    400092: rosa.023
+    400094: Roses
+    400096: Saucer.Glass.001
+    400098: Saucer.Porcelin.001
+    400100: Sofa back pillow
+    400102: Sofa back pillow.001
+    400104: Sofa back pillow.002
+    400106: Sofa bottom matress
+    400108: Sofa bottom matress.001
+    400110: Sofa bottom pillow
+    400112: Sofa botton matress
+    400114: Sofa seat pillow
+    400116: Sofa seat pillow.001
+    400118: Sofa sides
+    400120: Sofa sides.001
+    400122: Sofa sides.002
+    400124: Sofa support
+    400126: Sofa support.001
+    400128: Sofa support.002
+    400130: Sofas
+    400132: Sphere.002
+    400134: Spoon
+    400136: Spoon.002
+    400138: Spoon.003
+    400140: Spoon.Coffee.Creamed.001
+    400142: Sugar.Cube.001
+    400144: TV
+    400146: Window frame
+    400148: Window glass
+    2100000: Material.001
+    2100002: Material.002
+    2100004: Material.010
+    2100006: Material.036
+    2100008: Material.031
+    2100010: Material.000
+    2100012: Material.016
+    2100014: Material.017
+    2100016: Material.013
+    2100018: Material.033
+    2100020: Material.034
+    2100022: Material.008
+    2100024: Material.032
+    2100026: Material.006
+    2100028: Material.007
+    2100030: Material.028
+    2100032: Mat.Coffee.Creamed.001
+    2100034: Mat.Cup.Porcelin.001
+    2100036: Mat.Cup.Glass.001
+    2100038: Material.027
+    2100040: Mat.Black.Coffee.TOP.001
+    2100042: Mat.Coffee.Black.000
+    2100044: Material.029
+    2100046: Material_010.001
+    2100048: Material_011.001
+    2100050: Material_013.001
+    2100052: Material.011
+    2100054: Material.015
+    2100056: No Name
+    2100058: Material.009
+    2100060: Material.004
+    2100062: Material.003
+    2100064: Material.012
+    2300000: Black pillow
+    2300002: Carpet
+    2300004: Ceiling
+    2300006: Coffee.Black.Inside.Cup.001
+    2300008: Coffee.Black.Inside.TOP.001
+    2300010: CoffeeArt.Normal.Spec.Occ.001
+    2300012: CoffeeCup.Glass.001
+    2300014: CoffeeCup.Porcelin.001
+    2300016: corridor wall
+    2300018: Desk
+    2300020: floor
+    2300022: Front wall
+    2300024: Gibson board
+    2300026: gray pillow
+    2300028: hidden light in Ceiling
+    2300030: Lamp
+    2300032: Lamp culomne
+    2300034: left wall
+    2300036: left wall shelf
+    2300038: Nesstila Cup
+    2300040: paint
+    2300042: Right wall
+    2300044: Right wall shelf
+    2300046: rosa.006
+    2300048: rosa.007
+    2300050: rosa.008
+    2300052: rosa.009
+    2300054: rosa.010
+    2300056: rosa.011
+    2300058: rosa.012
+    2300060: rosa.013
+    2300062: rosa.014
+    2300064: rosa.015
+    2300066: rosa.016
+    2300068: rosa.017
+    2300070: rosa.018
+    2300072: rosa.019
+    2300074: rosa.020
+    2300076: rosa.021
+    2300078: rosa.022
+    2300080: rosa.023
+    2300082: Saucer.Glass.001
+    2300084: Saucer.Porcelin.001
+    2300086: Sofa back pillow
+    2300088: Sofa back pillow.001
+    2300090: Sofa back pillow.002
+    2300092: Sofa bottom matress
+    2300094: Sofa bottom matress.001
+    2300096: Sofa bottom pillow
+    2300098: Sofa botton matress
+    2300100: Sofa seat pillow
+    2300102: Sofa seat pillow.001
+    2300104: Sofa sides
+    2300106: Sofa sides.001
+    2300108: Sofa sides.002
+    2300110: Sofa support
+    2300112: Sofa support.001
+    2300114: Sofa support.002
+    2300116: Sphere.002
+    2300118: Spoon.002
+    2300120: Spoon.003
+    2300122: Spoon.Coffee.Creamed.001
+    2300124: Sugar.Cube.001
+    2300126: TV
+    2300128: Window frame
+    2300130: Window glass
+    3300000: Black pillow
+    3300002: Carpet
+    3300004: Ceiling
+    3300006: Coffee.Black.Inside.Cup.001
+    3300008: Coffee.Black.Inside.TOP.001
+    3300010: CoffeeArt.Normal.Spec.Occ.001
+    3300012: CoffeeCup.Glass.001
+    3300014: CoffeeCup.Porcelin.001
+    3300016: corridor wall
+    3300018: Desk
+    3300020: floor
+    3300022: Front wall
+    3300024: Gibson board
+    3300026: gray pillow
+    3300028: hidden light in Ceiling
+    3300030: Lamp
+    3300032: Lamp culomne
+    3300034: left wall
+    3300036: left wall shelf
+    3300038: Nesstila Cup
+    3300040: paint
+    3300042: Right wall
+    3300044: Right wall shelf
+    3300046: rosa.006
+    3300048: rosa.007
+    3300050: rosa.008
+    3300052: rosa.009
+    3300054: rosa.010
+    3300056: rosa.011
+    3300058: rosa.012
+    3300060: rosa.013
+    3300062: rosa.014
+    3300064: rosa.015
+    3300066: rosa.016
+    3300068: rosa.017
+    3300070: rosa.018
+    3300072: rosa.019
+    3300074: rosa.020
+    3300076: rosa.021
+    3300078: rosa.022
+    3300080: rosa.023
+    3300082: Saucer.Glass.001
+    3300084: Saucer.Porcelin.001
+    3300086: Sofa back pillow
+    3300088: Sofa back pillow.001
+    3300090: Sofa back pillow.002
+    3300092: Sofa bottom matress
+    3300094: Sofa bottom matress.001
+    3300096: Sofa bottom pillow
+    3300098: Sofa botton matress
+    3300100: Sofa seat pillow
+    3300102: Sofa seat pillow.001
+    3300104: Sofa sides
+    3300106: Sofa sides.001
+    3300108: Sofa sides.002
+    3300110: Sofa support
+    3300112: Sofa support.001
+    3300114: Sofa support.002
+    3300116: Sphere.002
+    3300118: Spoon.002
+    3300120: Spoon.003
+    3300122: Spoon.Coffee.Creamed.001
+    3300124: Sugar.Cube.001
+    3300126: TV
+    3300128: Window frame
+    3300130: Window glass
+    4300000: Sphere.002
+    4300002: hidden light in Ceiling
+    4300004: Desk
+    4300006: TV
+    4300008: paint
+    4300010: Carpet
+    4300012: Nesstila Cup
+    4300014: Lamp
+    4300016: Lamp culomne
+    4300018: Black pillow
+    4300020: gray pillow
+    4300022: Sofa bottom matress.001
+    4300024: Sofa back pillow.002
+    4300026: Sofa sides.002
+    4300028: Sofa bottom pillow
+    4300030: Sofa support.001
+    4300032: Sofa bottom matress
+    4300034: Sofa back pillow.001
+    4300036: Sofa sides.001
+    4300038: Sofa seat pillow.001
+    4300040: Sofa support.002
+    4300042: Sofa back pillow
+    4300044: Sofa seat pillow
+    4300046: Sofa botton matress
+    4300048: Sofa sides
+    4300050: Sofa support
+    4300052: Spoon.002
+    4300054: Spoon.003
+    4300056: Spoon.Coffee.Creamed.001
+    4300058: CoffeeCup.Porcelin.001
+    4300060: CoffeeCup.Glass.001
+    4300062: CoffeeArt.Normal.Spec.Occ.001
+    4300064: Coffee.Black.Inside.TOP.001
+    4300066: Coffee.Black.Inside.Cup.001
+    4300068: Sugar.Cube.001
+    4300070: Saucer.Glass.001
+    4300072: Saucer.Porcelin.001
+    4300074: rosa.006
+    4300076: rosa.007
+    4300078: rosa.008
+    4300080: rosa.009
+    4300082: rosa.010
+    4300084: rosa.011
+    4300086: rosa.012
+    4300088: rosa.013
+    4300090: rosa.014
+    4300092: rosa.015
+    4300094: rosa.016
+    4300096: rosa.017
+    4300098: rosa.018
+    4300100: rosa.019
+    4300102: rosa.020
+    4300104: rosa.021
+    4300106: rosa.022
+    4300108: rosa.023
+    4300110: left wall
+    4300112: Front wall
+    4300114: Right wall
+    4300116: Ceiling
+    4300118: corridor wall
+    4300120: floor
+    4300122: Window frame
+    4300124: Window glass
+    4300126: Gibson board
+    4300128: Right wall shelf
+    4300130: left wall shelf
+    9500000: //RootNode
+    10800000: Lamp.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

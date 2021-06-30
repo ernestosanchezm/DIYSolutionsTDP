@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &378644274002075774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 378644274002075771}
+  - component: {fileID: 378644274002075772}
+  - component: {fileID: 378644274002075773}
+  m_Layer: 0
+  m_Name: PTarugo13Zone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &378644274002075771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378644274002075774}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.37013805, y: -1.4682897, z: -13.813246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3178947056322330926}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &378644274002075772
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378644274002075774}
+  m_Mesh: {fileID: 4300000, guid: b323be158bb813748898f74ec65f4527, type: 3}
+--- !u!95 &378644274002075773
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378644274002075774}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &6296554960578930269
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 378644274002075771}
+    m_Modifications:
+    - target: {fileID: 1223042643647046807, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_Name
+      value: PTarugo13
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369445154296345996, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.9980268
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369445154296345996, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369445154296345996, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_Center.z
+      value: -0.00001335144
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369445154296345996, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_Center.x
+      value: -0.000007629395
+      objectReference: {fileID: 0}
+    - target: {fileID: 4070128715022902152, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: RocketPart
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4070128715022902152, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: SnapRotationReference
+      value: 
+      objectReference: {fileID: 378644274002075774}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a88c3d9073ccc8b45afc5be6d637525e, type: 3}
+--- !u!4 &3178947056322330926 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8898049502894237555, guid: a88c3d9073ccc8b45afc5be6d637525e,
+    type: 3}
+  m_PrefabInstance: {fileID: 6296554960578930269}
+  m_PrefabAsset: {fileID: 0}

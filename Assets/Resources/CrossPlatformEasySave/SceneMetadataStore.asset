@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30a0fe8f7efe44452a5d3dc37306f561, type: 3}
+  m_Name: SceneMetadataStore
+  m_EditorClassIdentifier: 
+  m_sceneMetaList:
+  - m_name: PrincipalScene
+    m_guid: 0878bb04913115a40b11cea198496a22
+    m_path: Assets/Scenes/Menu/PrincipalScene.unity
+    m_enabled: 1
+  - m_name: UsuarioScene
+    m_guid: 8da6f2c76502a3f439bc6eef70bd1717
+    m_path: Assets/Scenes/Menu/UsuarioScene.unity
+    m_enabled: 1
+  - m_name: ActividadesScene
+    m_guid: 1ba2a39ce018fb340bc7bb8b6fcb01b5
+    m_path: Assets/Scenes/Menu/ActividadesScene.unity
+    m_enabled: 1
+  - m_name: DetalleActividadScene
+    m_guid: 05fe12c33cadd57478642b1fe56180aa
+    m_path: Assets/Scenes/Menu/DetalleActividadScene.unity
+    m_enabled: 1
+  - m_name: ColocarMayolicaLosetaScene
+    m_guid: 98e3e44fd8817f04f90db5d349662fb8
+    m_path: Assets/Scenes/Actividades/ColocarMayolicaLosetaScene.unity
+    m_enabled: 1
+  - m_name: ArmarPuertaScene
+    m_guid: 153b976663656e1419d6f5f61cddf7f1
+    m_path: Assets/Scenes/Actividades/ArmarPuertaScene.unity
+    m_enabled: 1
+  - m_name: ColocarLuzScene
+    m_guid: e0d701e4bed9ec240b399ae95bc0df4f
+    m_path: Assets/Scenes/Actividades/ColocarLuzScene.unity
+    m_enabled: 1
+  - m_name: ColocarVentana
+    m_guid: 10bcf1419d9555947b19bca07c8f49bd
+    m_path: Assets/Scenes/Actividades/ColocarVentana.unity
+    m_enabled: 1
+  - m_name: StatisticScene
+    m_guid: 41a84d1c699afb04d9ef425aac41137a
+    m_path: Assets/Scenes/Menu/StatisticScene.unity
+    m_enabled: 1
+  - m_name: ColocarAlero
+    m_guid: 7a2b1312630db6e4495cadf882789c40
+    m_path: Assets/Scenes/Actividades/ColocarAlero.unity
+    m_enabled: 1
+  - m_name: ArmarMuebleCocina
+    m_guid: ef383186203ff754b9590472776f8b10
+    m_path: Assets/Scenes/Actividades/ArmarMuebleCocina.unity
+    m_enabled: 1
+  - m_name: ArmarFregadero
+    m_guid: ae08c22379f9a474896cbb8c1ba071e6
+    m_path: Assets/Scenes/Actividades/ArmarFregadero.unity
+    m_enabled: 1

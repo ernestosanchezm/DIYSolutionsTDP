@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6897941153518252372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6897941153518252379}
+  - component: {fileID: 6897941153518252380}
+  - component: {fileID: 6897941153518252378}
+  m_Layer: 0
+  m_Name: PTornillo13Zone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6897941153518252379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6897941153518252372}
+  m_LocalRotation: {x: 0.60876137, y: -0, z: -0, w: 0.7933534}
+  m_LocalPosition: {x: 1.3333797, y: 3.057, z: -18.064}
+  m_LocalScale: {x: 1.38638, y: 1.3863798, z: 1.6872301}
+  m_Children:
+  - {fileID: 6897941153360554248}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 75, y: 0, z: 0}
+--- !u!33 &6897941153518252380
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6897941153518252372}
+  m_Mesh: {fileID: 4300000, guid: 7575596f429690a4a94c5a4c46e6f875, type: 3}
+--- !u!95 &6897941153518252378
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6897941153518252372}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5d264cfcdea56064ca7496eaab68c0d4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &9015117320602302265
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6897941153518252379}
+    m_Modifications:
+    - target: {fileID: 2496763989621612080, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_Name
+      value: PTornillo13
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612086, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: RocketPart
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2496763989621612086, guid: 646a023a145f3d24183e226fbce45139,
+        type: 3}
+      propertyPath: SnapRotationReference
+      value: 
+      objectReference: {fileID: 6897941153518252372}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 646a023a145f3d24183e226fbce45139, type: 3}
+--- !u!4 &6897941153360554248 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2496763989621612081, guid: 646a023a145f3d24183e226fbce45139,
+    type: 3}
+  m_PrefabInstance: {fileID: 9015117320602302265}
+  m_PrefabAsset: {fileID: 0}
